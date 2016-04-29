@@ -1,6 +1,6 @@
 #  ONE API #
 
-****更新**：**EveryDay
+**更新：**EveryDay
 
 **问题反馈：**i@mayuko.cn
 
