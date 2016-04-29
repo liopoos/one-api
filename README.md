@@ -55,5 +55,4 @@
 
 内容：`<div id="oneword"><script>oneword()</script></div>`
 
-# 尽情享受吧~  #
-<img src="https://blog.mayuko.cn/api/one-api/img.php" alt="" />
+尽情享受吧~ 
