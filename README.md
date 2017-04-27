@@ -151,7 +151,7 @@ print(z_data)
 
 以JSON格式返回结果。
 
-```json
+```
 {
 “code”:1,
 “titulo_title”:“”,
